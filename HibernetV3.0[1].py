@@ -7673,7 +7673,7 @@ useragents=["AdsBot-Google ( http://www.google.com/adsbot.html)",
 			"W3C_Validator/1.305.2.12 libwww-perl/5.64",
 			"W3C_Validator/1.654",
 			"w3m/0.5.1",
-			"WDG_Validator/1.6.2",ttth
+			"WDG_Validator/1.6.2",
 			"WebCopier v4.6",
 			"Web Downloader/6.9",
 			"WebZIP/3.5 (http://www.spidersoft.com)",
